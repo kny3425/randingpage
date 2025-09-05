@@ -54,7 +54,7 @@ body
   text-align: center;
   justify-content: center;
   align-items: center;
-  background: url(./image/imgi_155.jpg) no-repeat
+  background: url(../image/imgi_155.jpg) no-repeat
   center/cover;
 }
 
@@ -101,35 +101,35 @@ header .gnb img
 
 header .gnb1:hover
 {
-  content: url(./image/question_m.png);
+  content: url(../image/question_m.png);
   padding-left: 50px;
   width: 45px;
   transform: translateY(15px);
 }
 header .gnb2:hover
 {
-  content: url(./image/diagonal_m.png);
+  content: url(../image/diagonal_m.png);
   padding-left: 50px;
   width: 45px;
   transform: translateY(15px);
 }
 header .gnb3:hover
 {
-  content: url(./image/bell_m.png);
+  content: url(../image/bell_m.png);
   padding-left: 50px;
   width: 45px;
   transform: translateY(15px);
 }
 header .gnb4:hover
 {
-  content: url(./image/receipt_m.png);
+  content: url(../image/receipt_m.png);
   padding-left: 50px;
   width: 45px;
   transform: translateY(15px);
 }
 header .gnb5:hover
 {
-  content: url(./image/user_m.png);
+  content: url(../image/user_m.png);
   padding-left: 50px;
   width: 45px;
   transform: translateY(15px);
@@ -139,7 +139,7 @@ header .gnb5:hover
 main
 {
   height: 1160px;
-  background: url(./image/main1_bg.jpg) no-repeat center/cover;
+  background: url(../image/main1_bg.jpg) no-repeat center/cover;
   background-size: 2150px;
   box-shadow: 50px 0 0 0 #1D1D1B inset, -50px 0 0 0 #1D1D1B inset, 0 -200px 0 0 #1D1D1B inset;
   display: flex;
@@ -152,7 +152,7 @@ main
 
 main .object1
 {
-  content: url(./image/kn1.png);
+  content: url(../image/kn1.png);
   position: absolute;
   top: -38%;
   left: 8%;
@@ -160,7 +160,7 @@ main .object1
 }
 main .object2
 {
-  content: url(./image/flower.png);
+  content: url(../image/flower.png);
   position: absolute;
   top: 504px;
   left: -48px;
@@ -169,7 +169,7 @@ main .object2
 
 main .object3
 {
-  content: url(./image/km.png);
+  content: url(../image/km.png);
   position: absolute;
   top: 230px;
   left: -80px;
@@ -183,7 +183,7 @@ main .object3:hover
 
 main .object4
 {
-  content: url(./image/newpaper2.png);
+  content: url(../image/newpaper2.png);
   position: absolute;
   top: -300px;
   left: 68%;
@@ -193,7 +193,7 @@ main .object4
 
 main .object5
 {
-  content: url(./image/ka.png);
+  content: url(../image/ka.png);
   position: absolute;
   top: -130px;
   left: 880px;
@@ -208,7 +208,7 @@ main .object5:hover
 
 main .object6
 {
-  content: url(./image/kb.png);
+  content: url(../image/kb.png);
   position: absolute;
   top: 18%;
   left: 78%;
@@ -222,7 +222,7 @@ main .object6:hover
 
 main .object7
 {
-  content: url(./image/painting.png);
+  content: url(../image/painting.png);
   position: absolute;
   top: 410px;
   left: 330px;
@@ -232,7 +232,7 @@ main .object7
 
 main .object8
 {
-  content: url(./image/kc.png);
+  content: url(../image/kc.png);
   position: absolute;
   top: 830px;
   left: 1420px;
@@ -246,7 +246,7 @@ main .object8:hover
 
 main .object9
 {
-  content: url(./image/making4.png);
+  content: url(../image/making4.png);
   position: absolute;
   transform: rotate(60deg) scale(0.36);
   top: 320px;
@@ -278,7 +278,7 @@ main .title h2
 main .title h2:before
 {
   position: absolute;
-  content: url(./image/making1.png);
+  content: url(../image/making1.png);
   z-index: -5;
   top: 0;
   left: 25%;
@@ -308,7 +308,7 @@ main .title h1 span:nth-child(2)
 }
 main .title h1 span:nth-child(1):before
 {
-  content: url(./image/making2.png);
+  content: url(../image/making2.png);
   position: absolute;
   transform: scale(0.5);
   top: 10%;
@@ -316,7 +316,7 @@ main .title h1 span:nth-child(1):before
 }
 main .title h1 span:nth-child(2):before
 {
-  content: url(./image/bgdio.svg);
+  content: url(../image/bgdio.svg);
   position: absolute;
   width: 260px;
   height: 100px;
@@ -406,7 +406,7 @@ main .title h1 span:nth-child(3)
 }
 .container2:after
 {
-  content: url(./image/part_hangwoman.png);
+  content: url(../image/part_hangwoman.png);
   top: -175px;
   right: -250px;
   position: absolute;
@@ -514,7 +514,7 @@ main .title h1 span:nth-child(3)
 }
 .part2 h5:after
 {
-  content: url(./image/making3.png);
+  content: url(../image/making3.png);
   transform: scale(0.8);
   top: -5px;
   position: absolute;
@@ -533,7 +533,7 @@ main .title h1 span:nth-child(3)
 {
   width: 770px;
   height: 240px;
-  background: url(./image/paper-planner-m2.jpg);
+  background: url(../image/paper-planner-m2.jpg);
   position: absolute;
   top: 280px;
   object-fit: cover;
@@ -614,7 +614,7 @@ letter-spacing: 0.5px;
   position: relative;
   width: inherit;
   height: 1290px;
-  background: url(./image/bgm.png) no-repeat center/cover;
+  background: url(../image/bgm.png) no-repeat center/cover;
   overflow: hidden;
 }
 
@@ -632,7 +632,7 @@ letter-spacing: 0.5px;
 }
 .container3 h2:before
 {
-  content: url(./image/making6.png);
+  content: url(../image/making6.png);
   position: absolute;
   bottom: -70px;
   right: -160px;
@@ -650,7 +650,7 @@ letter-spacing: 0.5px;
 .badge1
 {
   position: absolute;
-  content: url(./image/bg_original.png);
+  content: url(../image/bg_original.png);
   top: 150px;
   right: 100px;
   transform: scale(1.2);
@@ -669,7 +669,7 @@ letter-spacing: 0.5px;
 .badge2
 {
   position: absolute;
-  content: url(./image/bg_pink.png);
+  content: url(../image/bg_pink.png);
   transform: scale(1.1);
   bottom: 130px;
   left: 700px;
@@ -689,7 +689,7 @@ letter-spacing: 0.5px;
 .badge3
 {
   position: absolute;
-  content: url(./image/bg_yellow.png);
+  content: url(../image/bg_yellow.png);
   transform: scale(1.2);
   left: -200px;
   z-index: 100;
@@ -709,14 +709,14 @@ letter-spacing: 0.5px;
 .badge4
 {
   position: absolute;
-  content: url(./image/bg_blue.png);
+  content: url(../image/bg_blue.png);
   bottom: 50px;
   left: -100px;
 }
 .badge5
 {
   position: absolute;
-  content: url(./image/bg_violet.png);
+  content: url(../image/bg_violet.png);
   top: 300px;
   right: 550px;
   transform: scale(1.1);
@@ -724,7 +724,7 @@ letter-spacing: 0.5px;
 .badge6
 {
   position: absolute;
-  content: url(./image/bg_grey.png);
+  content: url(../image/bg_grey.png);
   transform: scale(0.8);
   bottom: 400px;
   right: -100px;
@@ -732,7 +732,7 @@ letter-spacing: 0.5px;
 .badge7
 {
   position: absolute;
-  content: url(./image/bg_green.png);
+  content: url(../image/bg_green.png);
   bottom: 150px;
   right: 270px;
 }
@@ -774,7 +774,7 @@ letter-spacing: 0.5px;
 {
   position: absolute;
   display: flex;
-  content: url(./image/part_drawing_landscape.png);
+  content: url(../image/part_drawing_landscape.png);
   opacity: 0.7;
   transform: scaleX(-1) scale(1.6);
   top: 100px;
@@ -782,7 +782,7 @@ letter-spacing: 0.5px;
 }
 .partition2
 {
-  content: url(./image/part_cloud.png);
+  content: url(../image/part_cloud.png);
   position: absolute;
   display: flex;
   transform: scaleX(-1) scale(0.6);
@@ -792,7 +792,7 @@ letter-spacing: 0.5px;
 }
 .container4 .partition3
 {
-  content: url(./image/sticker_woman_c.png);
+  content: url(../image/sticker_woman_c.png);
   position: absolute;
   transform: scale(0.8) rotate(10deg);
   z-index: 1500;
@@ -811,7 +811,7 @@ letter-spacing: 0.5px;
 
 .container4 .bgm2
 {
-  content: url(./image/imgi_151_c.jpg);
+  content: url(../image/imgi_151_c.jpg);
   width: 1450px;
   height: 830px;
   position: absolute;
@@ -822,7 +822,7 @@ letter-spacing: 0.5px;
 
 .container4 .object10
 {
-  content: url(./image/memo_c.png);
+  content: url(../image/memo_c.png);
   z-index: 1000;
   position: absolute;
   transform: scale(0.3) rotate(90deg);
@@ -832,7 +832,7 @@ letter-spacing: 0.5px;
 
 .container4 .object11
 {
-  content: url(./image/tape5.png);
+  content: url(../image/tape5.png);
   position: absolute;
   z-index: 1000;
   transform: scale(0.4) rotate(20deg);
@@ -842,7 +842,7 @@ letter-spacing: 0.5px;
 }
 .container4 .object12
 {
-  content: url(./image/tape1.png);
+  content: url(../image/tape1.png);
   position: absolute;
   z-index: 1000;
   transform: scale(0.5);
@@ -1011,7 +1011,7 @@ letter-spacing: 0.5px;
 .span1:before
 {
   position: absolute;
-  content: url(./image/maker7.png);
+  content: url(../image/maker7.png);
   top: -50px;
   left: 500px;
   z-index: -10;
@@ -1019,7 +1019,7 @@ letter-spacing: 0.5px;
 .span1:after
 {
   position: absolute;
-  content: url(./image/maker4.png);
+  content: url(../image/maker4.png);
   transform: scale(0.3) rotate(30deg);
   top: -70px;
   right: 50px;
@@ -1056,7 +1056,7 @@ letter-spacing: 0.5px;
 
 .container5 form
 {
-  background: url(./image/note.jpg) no-repeat center/cover;
+  background: url(../image/note.jpg) no-repeat center/cover;
   box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.4);
   position: relative;
 }
@@ -1265,7 +1265,7 @@ form .caution button:nth-child(2):hover
   display: inline-block;
   width: 18px;
   height: 18px;
-  background: url(./image/checkbox.png);
+  background: url(../image/checkbox.png);
   background-position: left;
   margin-right: 5px;
   transform: translateY(3px);
@@ -1277,7 +1277,7 @@ form .caution button:nth-child(2):hover
   display: inline-block;
   width: 18px;
   height: 18px;
-  background: url(./image/radio.png);
+  background: url(../image/radio.png);
   background-position: left;
   margin-right: 5px;
   transform: translateY(3px);
@@ -1322,28 +1322,28 @@ footer img
 
 footer .sns1:hover
 {
-  content: url(./image/icons8-messages_c.png);
+  content: url(../image/icons8-messages_c.png);
   width: 45px;
   height: 45px;
   margin-left: 30px;
 }
 footer .sns2:hover
 {
-  content: url(./image/icons8-facebook_C.png);
+  content: url(../image/icons8-facebook_C.png);
   width: 45px;
   height: 45px;
   margin-left: 30px;
 }
 footer .sns3:hover
 {
-  content: url(./image/icons8-insta_c.png);
+  content: url(../image/icons8-insta_c.png);
   width: 45px;
   height: 45px;
   margin-left: 30px;
 }
 footer .sns4:hover
 {
-  content: url(./image/icons8-twitter_c.png);
+  content: url(../image/icons8-twitter_c.png);
   width: 45px;
   height: 45px;
   margin-left: 30px;
